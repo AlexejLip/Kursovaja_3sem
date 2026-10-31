@@ -1,0 +1,21 @@
+# Build outputs and local tooling
+**/bin/
+**/obj/
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.avalonia-build-tasks/
+**/.avalonia-build-tasks/
+# User plans, recovery and generated exports
+Recovery/
+**/Recovery/
+*.forma.json
+*.tmp
+# Local environment
+.env
+.env.*
+*.log
