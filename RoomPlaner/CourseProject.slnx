@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FloorPlan.Domain/FloorPlan.Domain.csproj" />
+    <Project Path="src/FloorPlan.Application/FloorPlan.Application.csproj" />
+  </Folder>
+</Solution>
